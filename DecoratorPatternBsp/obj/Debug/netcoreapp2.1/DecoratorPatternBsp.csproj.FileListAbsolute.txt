@@ -1,0 +1,10 @@
+C:\Users\dpohland\Documents\Dominic Pohland\CSHARP\DecoratorPattern\DecoratorPatternBsp\DecoratorPatternBsp\obj\Debug\netcoreapp2.1\DecoratorPatternBsp.csprojAssemblyReference.cache
+C:\Users\dpohland\Documents\Dominic Pohland\CSHARP\DecoratorPattern\DecoratorPatternBsp\DecoratorPatternBsp\obj\Debug\netcoreapp2.1\DecoratorPatternBsp.AssemblyInfoInputs.cache
+C:\Users\dpohland\Documents\Dominic Pohland\CSHARP\DecoratorPattern\DecoratorPatternBsp\DecoratorPatternBsp\obj\Debug\netcoreapp2.1\DecoratorPatternBsp.AssemblyInfo.cs
+C:\Users\dpohland\Documents\Dominic Pohland\CSHARP\DecoratorPattern\DecoratorPatternBsp\DecoratorPatternBsp\bin\Debug\netcoreapp2.1\DecoratorPatternBsp.deps.json
+C:\Users\dpohland\Documents\Dominic Pohland\CSHARP\DecoratorPattern\DecoratorPatternBsp\DecoratorPatternBsp\bin\Debug\netcoreapp2.1\DecoratorPatternBsp.runtimeconfig.json
+C:\Users\dpohland\Documents\Dominic Pohland\CSHARP\DecoratorPattern\DecoratorPatternBsp\DecoratorPatternBsp\bin\Debug\netcoreapp2.1\DecoratorPatternBsp.runtimeconfig.dev.json
+C:\Users\dpohland\Documents\Dominic Pohland\CSHARP\DecoratorPattern\DecoratorPatternBsp\DecoratorPatternBsp\bin\Debug\netcoreapp2.1\DecoratorPatternBsp.dll
+C:\Users\dpohland\Documents\Dominic Pohland\CSHARP\DecoratorPattern\DecoratorPatternBsp\DecoratorPatternBsp\bin\Debug\netcoreapp2.1\DecoratorPatternBsp.pdb
+C:\Users\dpohland\Documents\Dominic Pohland\CSHARP\DecoratorPattern\DecoratorPatternBsp\DecoratorPatternBsp\obj\Debug\netcoreapp2.1\DecoratorPatternBsp.dll
+C:\Users\dpohland\Documents\Dominic Pohland\CSHARP\DecoratorPattern\DecoratorPatternBsp\DecoratorPatternBsp\obj\Debug\netcoreapp2.1\DecoratorPatternBsp.pdb
